@@ -3,6 +3,7 @@
 
 The weather application allows users to fetch and display real-time weather information based on the city or country name they input. The application provides a seamless user experience with a beautiful and responsive interface designed using Material-UI. Various weather condition images are integrated to enhance the visual appeal and provide a more engaging experience
 
+![ss2a](https://github.com/ROHINIKUMARI008/WeatherWinLet/assets/130496180/98af5761-a293-4bdb-80a3-f73312347028)
 
 
 
