@@ -9,13 +9,7 @@ The weather application allows users to fetch and display real-time weather info
 
 ## Features
 
-**React.js:** The application is built using React.js, which allows for efficient state management and component-based architecture. This makes the application highly modular and easy to maintain.
-
-**Material-UI:** For the frontend, I used Material-UI to create a responsive and visually appealing user interface. Material-UI's components and styling solutions helped in achieving a consistent look and feel across the application.
-
 **Weather API Integration:** The application fetches real-time weather data from an external API. This involved making asynchronous requests using Axios, handling API responses, and updating the UI accordingly.
-
-**State Management:** React's useState and useEffect hooks were used to manage the state of the application, such as storing user input and weather data. This ensured a dynamic and responsive user experience.
 
 **Error Handling:** Implemented error handling mechanisms to manage scenarios where the API fails to fetch data or the user inputs invalid information. This ensures the application remains robust and user-friendly.
 
@@ -24,7 +18,7 @@ The weather application allows users to fetch and display real-time weather info
 **Visual Feedback**: Integrated various images to represent different weather conditions, such as sunny, cloudy, rainy, and snowy. This not only enhances the user experience but also provides immediate visual feedback on the weather conditions.
 Benefits:
 
-##Benefits:
+## Benefits:
 
 **User-Friendly Interface:** Material-UI's components provide a clean and modern look, making the application intuitive and easy to navigate.
 
