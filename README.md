@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # Weather Winglet
 
 The weather application allows users to fetch and display real-time weather information based on the city or country name they input. The application provides a seamless user experience with a beautiful and responsive interface designed using Material-UI. Various weather condition images are integrated to enhance the visual appeal and provide a more engaging experience
@@ -27,3 +28,5 @@ Benefits:
 **Learning Experience:** This project provided hands-on experience with React.js, Material-UI, and API integration, enhancing my skills in modern web development technologies.
 
 **Error Resilience:** Robust error handling ensures that users receive appropriate feedback and the application can handle unexpected issues gracefully.
+=======
+>>>>>>> ddcc1a2 (First Commit)
